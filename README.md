@@ -10,8 +10,6 @@
 4. [Role-Based Access](#role-based-access)
 5. [Real-Time Synchronization](#real-time-synchronization)
 6. [Usage](#usage)
-7. [Installation](#installation)
-8. [Future Improvements](#future-improvements)
 
 ---
 
@@ -68,8 +66,3 @@ The scheduling system ensures that data is synchronized across all users in real
 4. **Real-Time Updates:** All updates are automatically reflected in the system.
 
 ---
-
-## Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/scheduling-system.git
